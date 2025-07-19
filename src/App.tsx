@@ -58,7 +58,7 @@ function App() {
         <div 
           className="absolute inset-0 bg-cover bg-center bg-no-repeat"
           style={{
-            backgroundImage: ""  "url('https://images.pexels.com/photos/1264210/pexels-photo-1264210.jpeg?auto=compress&cs=tinysrgb&w=1600')",
+            backgroundImage: "url('https://images.pexels.com/photos/1264210/pexels-photo-1264210.jpeg?auto=compress&cs=tinysrgb&w=1600')",
           }}
         >
           <div className="absolute inset-0 bg-gradient-to-b from-stone-900/70 via-stone-800/50 to-stone-900/70"></div>
