@@ -125,7 +125,7 @@ function App() {
         <div 
           className="absolute inset-0 bg-cover bg-center bg-no-repeat"
           style={{
-            backgroundImage: "url('/public/WhatsApp Image 2025-07-19 at 17.33.39.jpeg')",
+backgroundImage: "url('https://images.pexels.com/photos/1264210/pexels-photo-1264210.jpeg?auto=compress&cs=tinysrgb&w=1600')"
           }}
         >
           <div className="absolute inset-0 bg-gradient-to-t from-stone-900/90 via-stone-800/70 to-stone-900/90"></div>
