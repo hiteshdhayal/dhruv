@@ -20,7 +20,7 @@ function App() {
     },
     {
       title: "Hotels",
-      url: "#",
+      url: "https://www.instagram.com/reel/DHkq79Mh3wf/?igsh=azNseWZibnQxNDFo",
       image: "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=800"
     },
     {
