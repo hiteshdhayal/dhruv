@@ -15,7 +15,7 @@ function App() {
     },
     {
       title: "Cultural Events",
-      url: "https://www.instagram.com/reel/DHkq79Mh3wf/?igsh=azNseWZibnQxNDFo",
+      url: "https://www.instagram.com/reel/DIk7GR1BuvM/?igsh=MWZwcWlmOXozY2IxYQ==",
       image: "https://images.pexels.com/photos/1190297/pexels-photo-1190297.jpeg?auto=compress&cs=tinysrgb&w=800"
     },
     {
